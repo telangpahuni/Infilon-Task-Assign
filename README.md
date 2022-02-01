@@ -2,8 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Screens
+# Available Screens
 
-![alt text](deleteView.JPG)
-![alt text](editView.JPG)
+## Table View 
 ![alt text](tableView.JPG)
+
+## Edit View
+![alt text](editView.JPG)
+
+## Delete View
+![alt text](deleteView.JPG)
+
